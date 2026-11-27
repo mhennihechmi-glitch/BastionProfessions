@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: Bastion Professions
+## Notes: Profession levelling for Engineering, Blacksmithing, Jewelcrafting and Enchanting: one craft button that follows your skill, have/need for every mat, and push to Auctionator. /mats
+## Author: Wizax
+## Version: 1.2.1
+## OptionalDeps: Auctionator
+## SavedVariables: BastionProfessionsDB
+
+Lists.lua
+Plan.lua
+PlanBlacksmithing.lua
+PlanJewelcrafting.lua
+PlanEnchanting.lua
+Build.lua
+Core.lua
+Level.lua
+Panel.lua
